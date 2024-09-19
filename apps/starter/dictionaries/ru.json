@@ -1,0 +1,27 @@
+{
+  "test": "test ru",
+  "navigation": [
+    {
+      "trigger": "",
+      "links": [
+        {
+          "title": "test 1",
+          "href": "/test1"
+        }
+      ]
+    },
+    {
+      "trigger": "test trigger",
+      "links": [
+        {
+          "title": "test 2",
+          "href": "/test2"
+        },
+        {
+          "title": "test 3",
+          "href": "/test3"
+        }
+      ]
+    }
+  ]
+}

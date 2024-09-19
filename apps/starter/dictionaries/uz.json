@@ -1,0 +1,27 @@
+{
+  "test": "test uz",
+  "navigation": [
+    {
+      "trigger": "",
+      "links": [
+        {
+          "title": "Biz haqimizda",
+          "href": "/about"
+        }
+      ]
+    },
+    {
+      "trigger": "Ma'lumotlar",
+      "links": [
+        {
+          "title": "Korrupsiyaga qarshi kurash",
+          "href": "/anticorruption"
+        },
+        {
+          "title": "Gender tenglik",
+          "href": "/gender-equal"
+        }
+      ]
+    }
+  ]
+}

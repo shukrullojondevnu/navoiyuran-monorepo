@@ -8,6 +8,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "@types/negotiator": "^0.6.3",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.47",
     "prettier": "^3.2.5",
@@ -24,6 +25,8 @@
     "packages/*"
   ],
   "dependencies": {
+    "@formatjs/intl-localematcher": "^0.5.4",
+    "negotiator": "^0.6.3",
     "next-themes": "^0.3.0"
   }
 }
