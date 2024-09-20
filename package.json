@@ -25,6 +25,7 @@
     "packages/*"
   ],
   "dependencies": {
+    "@bybas/weather-icons": "^2.0.0",
     "@formatjs/intl-localematcher": "^0.5.4",
     "negotiator": "^0.6.3",
     "next-themes": "^0.3.0"
